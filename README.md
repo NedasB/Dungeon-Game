@@ -1,2 +1,2 @@
 # Dungeon-Game
-Code for dungeon project. 
+First ever Python project. - Learning
